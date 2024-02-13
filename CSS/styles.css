@@ -1,0 +1,29 @@
+body {
+    color: #fff;
+    background-color: #333;
+    font-family: Arial, sans-serif;
+}
+
+header, nav, main {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    color: darkpurple; /* Replace with your actual color code */
+}
+
+input[type="search"] {
+    padding: 5px;
+}
